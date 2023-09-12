@@ -1,0 +1,17 @@
+public class O                     rder{
+int id;
+String vendorName;
+String customerName;
+double amount;
+int quantity;
+}
+
+
+
+
+
+
+
+
+
+

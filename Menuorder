@@ -1,0 +1,8 @@
+public class Menuorder{
+int id;
+String VendorName;
+String menuMame;
+String menuCatogary;
+double amount;
+boolean isVeg;
+}
